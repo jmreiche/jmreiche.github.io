@@ -1,0 +1,14 @@
+<footer>
+  <hr class="slender">
+  <ul class="footer-links">
+    <li><a href="mailto:hate@spam.net"><span class="icon-mail3"></span></a></li>    
+    {% for entry in site.data.social %}
+      <li>
+        <a href="{{ entry.link }}"><span class="{{ entry.icon }}"></span></a>
+      </li>
+    {% endfor %}  
+  </ul>
+<div class="credits">
+<span>&copy; {{ site.time | date: '%Y' }} &nbsp;&nbsp;{{site.author | lowcase }}</span></br> <br>
+</div>  
+</footer>
