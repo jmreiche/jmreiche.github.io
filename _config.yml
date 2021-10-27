@@ -21,7 +21,7 @@
 title: Tech ramblings
 email: contact@jesperreiche.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Small unimportant thoughts on technology and the tech space
+  Unimportant thoughts on technology and the tech space
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: JesperReiche
