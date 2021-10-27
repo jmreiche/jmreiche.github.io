@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Welcome to anything!"
-date: 2021-04-20 15:52:17 +0200
 categories: jekyll update
 ---
 
