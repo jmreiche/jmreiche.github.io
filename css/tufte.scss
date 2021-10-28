@@ -849,6 +849,7 @@ hr.slender {
   text-transform: none;
   line-height: 1;
   color: $color-footer;
+  text-decoration: none;
 
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
@@ -856,7 +857,7 @@ hr.slender {
 }
 
 .icon-mail3:before {
-  content: "\ea85";
+  content: "\ea83";
 }
 .icon-amazon:before {
   content: "\ea87";
@@ -917,5 +918,8 @@ hr.slender {
 }
 .icon-html-five:before {
   content: "\eae4";
+}
+.icon-instagram:before {
+  content: "\ea92";
 }
 /*-- End of Icomoon icon font section --*/
