@@ -1,4 +1,5 @@
 ---
+nav_exclude: true
 layout: post
 title: page
 ---

@@ -1,12 +1,10 @@
 ---
-layout: full-width
+layout: default
 title: about
 ---
 
-The _Tufte-Jekyll_ theme is a natural extension of the work done by [Edward Tufte](https://github.com/edwardtufte/tufte-css) and his collaborators on Github who created a CSS file that allows web writers to use the same simple and elegant style employed in his published materials.
+# About
 
-To incorporate these styles into a Jekyll theme, I have made some very slight modifications that attempt to maintain the feel of the CSS styles in his Github repo.
+Hi my name is Jesper and this is my static github page. I have not fully decided what I want to do with it yet.
 
-Note that this is a full-width layout. This was accomplished by including `layout: full-width` in the YAML front matter for this page. Keep in mind that all the Tufte-Jekyll sidenote and marginnote goodness will not work on full-width layouts!
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll).
+But I think that it will be used to technological musings and short ramblings.

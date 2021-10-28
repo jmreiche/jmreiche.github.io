@@ -42,46 +42,46 @@ body {
 
 html {
   text-align: baseline;
-  font-size: 11px;
+  font-size: 15px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-@media screen and (min-width: 800px) {
-  html {
-    font-size: 12px;
-  }
-}
+// @media screen and (min-width: 800px) {
+//   html {
+//     font-size: 12px;
+//   }
+// }
 
-@media screen and (min-width: 900px) {
-  html {
-    font-size: 13px;
-  }
-}
+// @media screen and (min-width: 900px) {
+//   html {
+//     font-size: 13px;
+//   }
+// }
 
-@media screen and (min-width: 1000px) {
-  html {
-    font-size: 14px;
-  }
-}
+// @media screen and (min-width: 1000px) {
+//   html {
+//     font-size: 14px;
+//   }
+// }
 
-@media screen and (min-width: 1100px) {
-  html {
-    font-size: 15px;
-  }
-}
+// @media screen and (min-width: 1100px) {
+//   html {
+//     font-size: 15px;
+//   }
+// }
 
-@media screen and (min-width: 1200px) {
-  html {
-    font-size: 16px;
-  }
-}
+// @media screen and (min-width: 1200px) {
+//   html {
+//     font-size: 16px;
+//   }
+// }
 
-@media screen and (min-width: 1300px) {
-  html {
-    font-size: 17px;
-  }
-}
+// @media screen and (min-width: 1300px) {
+//   html {
+//     font-size: 17px;
+//   }
+// }
 
 // Mathjax fonts need TLC
 .mjx-math {
@@ -175,13 +175,13 @@ p .subtitle {
 p,
 ol,
 ul {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
 }
 
 p,
 li {
   line-height: 2rem;
-  margin-top: 1.4rem;
+  margin-top: 1.2rem;
   padding-right: 2rem; //removed because,  why?
   vertical-align: baseline;
 }
@@ -237,7 +237,7 @@ blockquote footer {
 
 .sans {
   font-family: $sans-font;
-  letter-spacing: 0.03em;
+  // letter-spacing: 0.03em;
 }
 
 pre,
@@ -513,7 +513,7 @@ li.listing div {
 span.newthought {
   font-variant: small-caps;
   font-size: 1.2em;
-  letter-spacing: 0.05rem;
+  // letter-spacing: 0.05rem;
 }
 
 input.margin-toggle {
@@ -628,7 +628,7 @@ nav.group a.active {
 header > nav a {
   font-size: 1.2rem;
   font-family: $sans-font;
-  letter-spacing: 0.15em;
+  // letter-spacing: 0.15em;
   // text-transform: uppercase;
   color: $text-color;
   padding-top: 1.5rem;
@@ -658,6 +658,7 @@ ul.footer-links li {
 }
 .credits {
   padding: 1rem 0rem;
+  color: $color-footer;
 }
 
 //change font color for credit links in footer
@@ -687,7 +688,7 @@ ul.content-listing li.listing {
 h1.content-listing-header {
   font-style: normal;
   text-transform: uppercase;
-  letter-spacing: 0.2rem;
+  // letter-spacing: 0.2rem;
   font-size: 1.8rem;
 }
 
@@ -846,6 +847,7 @@ hr.slender {
   font-variant: normal;
   text-transform: none;
   line-height: 1;
+  color: $color-footer;
 
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
