@@ -17,4 +17,7 @@ post:
 page:
   template: _page.txt
   extension: md
+plugins:
+  - jekyll-seo-tag
+
 
