@@ -362,6 +362,8 @@ ol {
 
 ul.content-listing {
   width: 45%;
+  -webkit-padding-start: 0%;
+  margin-left: 0 px;
 }
 
 //li { padding: 0.5em 0; } //vertical padding on list items screws up vertical rhythym
