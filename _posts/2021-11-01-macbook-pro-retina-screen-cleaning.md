@@ -1,5 +1,5 @@
 ---
-title: "Macbook Pro retina screen cleaning"
+title: "Macbook Pro Retina screen cleaning"
 layout: post
 date: 2021-11-01 06:46:04
 categories: tips

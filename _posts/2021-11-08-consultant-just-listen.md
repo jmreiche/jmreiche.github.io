@@ -1,5 +1,5 @@
 ---
-title: "Consultant, just listen"
+title: "Consultant listen"
 layout: post
 date: 2021-11-08 06:46:04
 categories: consulting
