@@ -51,5 +51,5 @@ So the next section here is a bit out of my depth. I am unsure about whether Poe
 poetry add <package>
 ```
 
-If you run into issues with Poetry I can recommend their documentation: https://python-poetry.org/docs/basic-usage/
+If you run into issues with Poetry I can recommend their documentation: [https://python-poetry.org/docs/basic-usage/](https://python-poetry.org/docs/basic-usage/)
 
