@@ -1,5 +1,5 @@
 ---
-title: "Setting up Ubuntu 20.04 for Python programming with Poetry"
+title: "Setting up Ubuntu for Python programming with Poetry"
 layout: post
 date: 2022-01-09 06:46:04
 categories: programming python
