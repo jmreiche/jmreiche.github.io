@@ -9,10 +9,10 @@ Hi my name is Jesper and this is my static github page. I already have a website
 
 This page I plan to use a lot more for technical and programming related content.
 
-I currently work as freelance consultant doing everyhting from management consulting over architecture to business analyst. I an not really doing any coding as consultant these days, but I still code quite a lot in my spare time.
+I currently work as freelance consultant doing everyhting from management consulting over architecture to business analyst. I an not really doing any coding as consultant these days, but I still code some in my spare time.
 
-My current goal is to somehow break into space-related fields. As I live in Denmark I probably won't be working for NASA or SpaceX and does not have my hopes too high on ending up doing it for a living. But it could also be participating in open source projects and the like.
+I have not fully decided on where I want to take this page as opposed to my personal blog. My guess is that I will use this for more tech-related content and use the other for photography and motorcycle-related content. 
 
-I will try my best to document my progress so I can see how far I go and have come and also for others to follow along if they like.
+There is an itch to release content so I have to scratch it everyonce in a while-
 
 You are always free to contact me. I prefer to be contacted by email, the other social media accounts are not checked as regularly.
