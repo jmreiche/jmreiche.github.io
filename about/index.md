@@ -13,6 +13,6 @@ I currently work as freelance consultant doing everyhting from management consul
 
 I have not fully decided on where I want to take this page as opposed to my personal blog. My guess is that I will use this for more tech-related content and use the other for photography and motorcycle-related content. 
 
-There is an itch to release content so I have to scratch it everyonce in a while-
+There is an itch to release content so I have to scratch it everyonce in a while.
 
 You are always free to contact me. I prefer to be contacted by email, the other social media accounts are not checked as regularly.
