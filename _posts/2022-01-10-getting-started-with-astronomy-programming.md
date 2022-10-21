@@ -1,5 +1,5 @@
 ---
-title: "Getting started with astronomy programming"
+title: "Astronomy programming"
 layout: post
 date: 2022-01-10 06:46:04
 categories: programming
