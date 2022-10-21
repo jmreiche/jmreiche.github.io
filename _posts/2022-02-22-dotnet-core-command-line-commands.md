@@ -1,5 +1,5 @@
 ---
-title: "Dotnet Core Command Line Commands"
+title: ".Net Core Command Line Commands"
 layout: post
 date: 2022-02-22 06:46:04
 categories: programming
