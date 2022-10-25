@@ -2,7 +2,7 @@
 title: "Linearly scalable work"
 layout: post
 date: 2022-10-25 06:46:04
-categories: corporate
+categories: programming management
 canonical_url: https://jesperreiche.com/linearly-scalable-work/
 ---
 
