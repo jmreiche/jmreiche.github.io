@@ -6,11 +6,11 @@ categories: programming management
 canonical_url: https://jesperreiche.com/linearly-scalable-work/
 ---
 
-Laying bricks scales linearly. If one guy takes 4 weeks to build a house then you can add three more for a total of four people and expect the work to be done in 1 week. This works across a lot of different tasks and areas, but of course not infinitely. If we keep adding people then at some point they will get in each others way and the benefit will diminish.
+Laying bricks scales almost linearly. If one guy takes 4 weeks to build a house then you can add three more for a total of four people and expect the work to be done in 1 week. This works across a lot of tasks and areas, but of course not infinitely. If we keep adding people then at some point they will get in each others way and the benefit will diminish.
 
 But for some types of work adding people **not** only does not help to have it completed faster - it actually takes **longer** to complete.
 
-If we need to translate a book, then up until the point where the distribution and merging of individual words takes longer and gets more complicated than the translation itself we can keep adding people and expect a benefit in terms of finishing faster. 
+If we need to translate a book, then up until the point where the distribution and merging of individual words takes longer and gets more complicated than the translation itself, we can keep adding people and expect a benefit in terms of finishing faster. 
 
 If we need to build a new motorway, then we can keep adding people and machinery to finish faster until it takes longer to deploy them, than the time it takes for them to pave any stretch of road.
 
@@ -36,6 +36,8 @@ The same rules apply for software projects.
 
 There is an optimal number of developers, which is probably lower than you think, but almost impossible to foresee or calculate as it will depend on the product, the code base, the project and the team/company structure. 
 
-The clearer the boundaries; area by area, service by service, frontend vs. backend the more people you can probably use. But my advice would always be to error on the lower side. It is better to have too few people than too many. Projects with too few people will finish faster than projects with too few people.
+The clearer the boundaries; area by area, service by service, frontend vs. backend the more people you can probably use. But my advice would always be to error on the lower side. It is better to have too few people than too many. 
+
+Projects with too few people will finish faster than projects with too many people.
 
 When push comes to shove and deadlines appear, fight the temptation to "act" and add more people as much as possible. Have it be the last resort and only if rewards are to be reaped in the long run and not for short term goals. For short term goals adding people will only make it worse. You are behind and will not finish in time - accept it and have people do the best they can to finish as fast as possible. Do not make it worse by adding additional people and finishing even later. 
