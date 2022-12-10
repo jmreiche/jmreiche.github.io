@@ -1,0 +1,6 @@
+To run on Mac:
+bundle exec jekyll serve
+
+gem cleanup
+
+bundle install
