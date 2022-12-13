@@ -1,10 +1,10 @@
 baseurl: ""
 title: Tech musings
 subtitle: Unimportant thoughts
-author: jesper reiche
+author: Jesper Reiche
 simple_search: http://google.com/search
 description: Unimportant thoughts
-name: jesper
+name: Jesper
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /:title
