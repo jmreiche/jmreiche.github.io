@@ -5,7 +5,7 @@ title: about
 
 # About
 
-Hi my name is Jesper and this is my static github page. I already have a website [jesperreiche.com](https://www.jesperreiche.com) that I use as personal blog, but also highly geared towards my interest in photography.
+Hi my name is Jesper and this is my static github page. I already have a website [jesperreiche.com](https://www.jesperreiche.com) that I use as personal blog, but also highly geared towards my interest in photography. If you are interested in the technology behind this site then see [what am I looking at](/what-am-i-looking-at)
 
 This page I plan to use a lot more for technical and programming related content.
 
