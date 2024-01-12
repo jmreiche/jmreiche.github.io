@@ -22,7 +22,7 @@ I was just about to write that and ask for a way to switch of that "analysis" an
 
 But then it struck me that perhaps I had the wrong conclusion. Which is why I decided to write myself through the issue and see if I could get to a conclusion.
 
-Because is one of the defining differences between youth and adults the ability to think through a situation and foresee the potential outcome. Is that not what we get out of all the things we throw ourselves at that fail as youths? Are we not exactly supposed to learn from all the naïve experiences and be better at selecting where to put our effort?
+Because one of the defining differences between youth and adults is the ability to think through a situation and foresee the potential outcome. Is that not what we get out of all the things we throw ourselves at that fail as youths? Are we not exactly supposed to learn from all the naïve experiences and be better at selecting where to put our effort?
 
 Are we better off thinking about the consequences or experiencing them?
 
