@@ -1,5 +1,6 @@
 ---
 title: Triumph crank and head disassembly
+description: Triumph crank and head disassembly 1959 bonneville
 layout: post
 date: 2024-01-18 06:46:04
 categories: triumph motorcycles

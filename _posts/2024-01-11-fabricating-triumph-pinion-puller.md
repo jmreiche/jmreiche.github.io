@@ -1,5 +1,6 @@
 ---
 title: Fabricating Triumph pinion puller
+description: Fabricating triumph pinion puller for triumph pre unit
 layout: post
 date: 2024-01-10 06:46:04
 categories: triumph motorcycles

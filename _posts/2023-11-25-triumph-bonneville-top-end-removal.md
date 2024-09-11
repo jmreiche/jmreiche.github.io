@@ -1,5 +1,6 @@
 ---
 title: Triumph Bonneville top end removal
+description: Triumph bonneville top end head removal
 layout: post
 date: 2023-11-25 06:46:04
 categories: triumph motorcycles
