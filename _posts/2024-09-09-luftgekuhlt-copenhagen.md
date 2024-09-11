@@ -1,5 +1,6 @@
 ---
 title: Luftgekuhlt Copenhagen
+description: Images from Luftgekuhlt Copenhagen an aircooled porsche event
 layout: post
 date: 2024-09-09 06:46:04
 categories: photography cars

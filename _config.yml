@@ -1,9 +1,9 @@
 baseurl: ""
-title: Technological philosophy
-subtitle: Unimportant thoughts
+title: Jesper's photography blog
+subtitle: Photographs and writings from everyday life
 author: Jesper Reiche
 simple_search: http://google.com/search
-description: Unimportant thoughts
+description: Photography blog
 name: Jesper
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
