@@ -4,14 +4,14 @@ description: Images from Luftgekuhlt Copenhagen an aircooled porsche event
 layout: post
 date: 2024-09-09 06:46:04
 categories: photography cars
-canonical_url:
+canonical_url: https://jesperreiche.com/luftgekuhlt-copenhagen/
 ---
 
 I had the great opportunity to see the Porsche aircooled car/art show "Luftgekuhlt" in Copenhagen this Saturday. To the best of my knowledge it is a show that started in California and has since expanded to include a few satellite shows around the World each year. And this Saturday it was held at the Wilhelm Lauritzen terminal in Copenhagen right next to Copenhagen Airport.
 
 When we first arrived, we actually managed to walk into what appeared to be the parking lot for trailors etc. But in true spirit of the event, this parking lot was also filled with a lot of special vehicles. This perfectly specced red 964 being one of them.
 
-![Red Porsche 964](/images/luftgekuhlt-copenhagen/DSC_1194.JPG)
+![Red Porsche 964](/_posts/img/DSC_1194.JPG)
 
 Walking back and in through the right gate we were met with an astonishing view. Hundreds of old aircooled Porsches parked around the old Vilhelm Lauritzen terminal and nearby hangars.
 
