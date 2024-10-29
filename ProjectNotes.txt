@@ -4,3 +4,5 @@ bundle exec jekyll serve
 gem cleanup
 
 bundle install
+
+// If issues with gems then try to delete Gemfile.lock

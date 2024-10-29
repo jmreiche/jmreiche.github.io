@@ -5,3 +5,4 @@ _site
 config.codekit
 vendor/
 .bundle/
+.vscode/settings.json
