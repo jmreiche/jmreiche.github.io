@@ -1,9 +1,9 @@
 baseurl: ""
-title: Jesper's photography blog
+title: Engineered for contemplation
 subtitle: Photographs and writings from everyday life
 author: Jesper Reiche
 simple_search: http://google.com/search
-description: Photography blog
+description: Engineering blog
 name: Jesper
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
