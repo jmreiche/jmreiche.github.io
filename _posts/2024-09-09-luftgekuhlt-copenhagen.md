@@ -11,7 +11,7 @@ I had the great opportunity to see the Porsche aircooled car/art show "Luftgekuh
 
 When we first arrived, we actually managed to walk into what appeared to be the parking lot for trailors etc. But in true spirit of the event, this parking lot was also filled with a lot of special vehicles. This perfectly specced red 964 being one of them.
 
-![Red Porsche 964](/_posts/img/DSC_1194.JPG)
+![Red Porsche 964](/images/luftgekuhlt-copenhagen/DSC_1194.JPG)
 
 Walking back and in through the right gate we were met with an astonishing view. Hundreds of old aircooled Porsches parked around the old Vilhelm Lauritzen terminal and nearby hangars.
 
