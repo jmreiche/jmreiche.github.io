@@ -1,9 +1,9 @@
 baseurl: ""
-title: Engineered for contemplation
+title: Doing things
 subtitle: Photographs and writings from everyday life
 author: Jesper Reiche
 simple_search: http://google.com/search
-description: Engineering blog
+description: Working with my hands and camera
 name: Jesper
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
