@@ -5,11 +5,11 @@ title: about
 
 # About
 
-Hi my name is Jesper and this is my static github page. I already have a website [jesperreiche.com](https://www.jesperreiche.com) that I use as personal blog, but also highly geared towards my interest in photography. 
+Hi my name is Jesper and this is my static github page. I already have a website [jesperreiche.com](https://www.jesperreiche.com) that I use as personal blog, but it is also highly geared towards my interest in photography. 
 
 If you are interested in the technology behind this current site then see [what am I looking at](/what-am-i-looking-at).
 
-I currently work as freelance consultant doing everyhting from management consulting over architecture to programing and business analysis. 
+I currently work as freelance consultant doing everything from management consulting over enterprise/solution architecture to programming and business analysis. 
 
 I have not fully decided on where I want to take this page as opposed to my personal blog. My original plan was to use it for more technical writing. But ever since I had that thought I have almost had nothing interesting technology-related to say. But I do like the flow of writing posts in Visual Studio code and checking everything in to Git. It is somehow easier and feels better that the online editor of my other website that runs Wordpress. Even adding pictures to posts seems easier this way than uploading to Wordpress and adding at the right places.
 
