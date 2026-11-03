@@ -31,13 +31,12 @@ You can also use `jekyll serve -w --baseurl ''` to remove `/tufte-jekyll` from t
 I have created a very simple site options file in the ```_data``` directory that contains two settings currently. The file in the github repo looks like this:
 ```
 mathjax: true
-lato_font_load: true
 ```
-Removing either 'true' value will prevent the jekyll site building process from adding links to either the Mathjax library or the Google Fonts Lato font as a fallback for the Gill Sans. Set these values to blank if you want to really streamline your page loading time.
+Setting `mathjax` to false prevents the Jekyll site from including the MathJax library. IBM Plex Mono is loaded from Google Fonts.
 
 ### SASS
 
-I am using Sass to create the css file used by this theme. If you would like to change things like fonts, text colors, background colors and so forth, edit the ```_scss/_settings.scss``` file. This file gets loaded first when Jekyll constructs the master CSS file from the tufte.scss SASS file, and contains SASS variables that influence the appearance of the site. The one variable that may be of interest to some is the ```$link-style``` variable, which can be set to either ```underline``` or ```color```. This will determine if your links are styled using the ```$contrast-color``` variable with no underlining, or whether they are styled using light underlining as seen on the [*tufte-css*](https://github.com/edwardtufte/tufte-css) repo.
+I am using Sass to create the CSS file used by this theme. To change fonts, text colors, background colors, and other styles, edit the `_sass/_settings.scss` file. It contains Sass variables that influence the appearance of the site. The `$link-style` variable can be set to either `underline` or `color`. This determines whether links are styled using `$contrast-color` or with light underlining as seen on the [*tufte-css*](https://github.com/edwardtufte/tufte-css) repo.
 
 ### Social icons
 

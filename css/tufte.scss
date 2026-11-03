@@ -155,7 +155,7 @@ h2 {
 h3 {
   font-style: italic;
   font-weight: 400;
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   margin-top: 2.1777777777777778rem;
   margin-bottom: 0;
   line-height: 1.08888888888889;
@@ -172,7 +172,10 @@ p .subtitle {
   line-height: 1.08888888888889;
 }
 
-p,
+p {
+  font-size: 1.1rem;
+}
+
 ol,
 ul {
   font-size: 1.2rem;
@@ -435,7 +438,7 @@ blockquote .marginnote {
 .sidenote-number:after,
 .sidenote:before {
   content: counter(sidenote-counter) " ";
-  font-family: et-bembo-roman-old-style;
+  font-family: $body-font;
   color: $contrast-color; //added color
   position: relative;
   vertical-align: baseline;
